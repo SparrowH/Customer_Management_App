@@ -1,0 +1,11 @@
+/* #logo {} */
+
+body {
+    background-color: #ebeff5;
+}
+
+#total-orders,
+#orders-delivered,
+#orders-pending {
+    background-color: #4cb4c7;
+}
